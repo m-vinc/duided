@@ -4,7 +4,7 @@ A simple CLI tool used to generate DUIDs or showing you the DUID NetworkManager 
 
 ## Build
 
-You need to install the V compiler by following the guide on the offical (V website)[https://vlang.io/] then :
+You need to install the V compiler by following the guide on the offical [V website](https://vlang.io/) then :
 
 ```bash
 $ cd duided
